@@ -1,3 +1,22 @@
 # Medical Data Visualizer
 
-This is the boilerplate for the Medical Data Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
+This project analyzes and visualizes medical examination data to identify patterns related to BMI, cholesterol, glucose levels, and heart health.
+
+## 📊 Features
+
+- Cleans and normalizes medical data
+- Adds an overweight column based on BMI
+- Creates a categorical plot showing the distribution of health features
+- Generates a heatmap to visualize correlations between health indicators
+
+## 🛠 Tools Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## 📁 Files
+
+- `medical_data_visualizer.py` – Data processing and plotting
+- `medical_examination.csv` – Input dataset
